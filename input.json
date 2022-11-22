@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "request": {
+      "http": {
+        "headers": {
+          "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiTXVza2FuIEpoYW1iIiwic2VjdXJpdHlfZ3JvdXAiOiJudWxsIiwiZW1haWwiOiJNdXNrYW4uSmhhbWJAR2VtaW5pc29sdXRpb25zLmNvbSIsImV4cCI6MjAyODc4MDczNywiaWF0IjoxNjY4NzgwNzM3LCJhdWQiOiI4N2JjYTg5OC00M2ZkLTRjMjctYWYyYi02OGYxZTljN2Y5OTUifQ.Xio-Wrb8DV5xgLmw7YIzxnVimuRuP2FyjcbJNB_TEuoCH8EQVYvD27fwlq4TwLHhxCCwzoQ06cMiVl3jMvJK5-OxD6DcDfYbb8zK0iC-8f_OiW4ATWxSGet7P9DG7_peEJA8S293PbKe43PLXC8kA4y_aHyKifPYcU9ilPKlKmb10yFyUkjCnWVoTvSG3LDVft8KrHQAQoYctiQAVna8esPBufTR1KBC4Vvk0qCDnT8e9OpM_76dKVU5IiwcvJUHs87WIhQRs4DygHRtcLhO7aNIV5pNfB8pfNEdZjgAmGloweXx2SR8MrFDh6pbNZoMdtt__UEnVSUvnux9CEQHYA"
+        },
+        "method": "POST",
+        "path": "/employeedirectory/employee-skills"
+      }
+    }
+  }
+}
