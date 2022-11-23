@@ -1,6 +1,10 @@
 package main
 
 import input.attributes.request.http
+import data.policies.gembook.awardsandevents
+
+
+#ans = awardsandevents["result"] with input
 
 default result = false
 default msg = "No applicable policy found"
