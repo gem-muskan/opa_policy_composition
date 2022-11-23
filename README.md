@@ -1,7 +1,8 @@
 # opa_policy_composition
 
-Idea behind this  Each team writes their policy in a separate package, then you write one more policy(main) 
-that imports all the teams policies and makes a decision
+Idea behind this  Each service writes their policy in a separate package, then you write one more policy(main) 
+that imports all the service policies and makes a final decision
+
 
 We can write main policy in many ways:
 main : as per input (http.path) we will identify which policy to call
