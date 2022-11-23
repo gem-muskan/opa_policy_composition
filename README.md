@@ -7,6 +7,8 @@ that imports all the service policies and makes a final decision
 We can write main policy in many ways:
 main : as per input (http.path) we will identify which policy to call
        'opa eval -f pretty -d . 'data.main.decision' --input input.json'
+       
 
 main2 : we only want result of particular policy
-        'opa eval -f pretty -d . 'data.main2.allow_<policy_name>' --input input.json'
+
+       'opa eval -f pretty -d . 'data.main2.allow_<policy_name>' --input input.json'
